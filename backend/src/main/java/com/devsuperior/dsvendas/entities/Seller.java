@@ -25,6 +25,9 @@ public class Seller implements Serializable{
 	@OneToMany(mappedBy = "seller")
 	private List<Sale> sales = new ArrayList<>();
 	
+	public Seller() {
+	}
+	
 	public Seller(Long id, String name) {
 		this.id = id;
 		this.name = name;
