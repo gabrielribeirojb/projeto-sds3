@@ -12,6 +12,9 @@ O projeto consiste em um dashboard que mostra a taxa de sucesso de vendas dos fu
 ## Layout web
 ![Web 1](https://github.com/gabrielribeirojb/itens-para-readme/blob/main/assets/03-sds3/semana-dev-3-app.jpg)
 
+## Padrão de projeto
+![Padrao Projeto](https://github.com/gabrielribeirojb/itens-para-readme/blob/main/assets/01-course-springboot-java-11/padrao-projeto.jpeg)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
