@@ -24,9 +24,8 @@ O projeto consiste em um dashboard que mostra a taxa de sucesso de vendas dos fu
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
 - Apex Charts
-- Expo
+- Axios
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
